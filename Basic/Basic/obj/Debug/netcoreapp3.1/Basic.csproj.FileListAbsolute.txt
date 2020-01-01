@@ -1,0 +1,11 @@
+D:\01 Scoala informala de IT\02 DOT NET\Teme\Basic\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.exe
+D:\01 Scoala informala de IT\02 DOT NET\Teme\Basic\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.deps.json
+D:\01 Scoala informala de IT\02 DOT NET\Teme\Basic\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.json
+D:\01 Scoala informala de IT\02 DOT NET\Teme\Basic\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.dev.json
+D:\01 Scoala informala de IT\02 DOT NET\Teme\Basic\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.dll
+D:\01 Scoala informala de IT\02 DOT NET\Teme\Basic\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.pdb
+D:\01 Scoala informala de IT\02 DOT NET\Teme\Basic\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.csprojAssemblyReference.cache
+D:\01 Scoala informala de IT\02 DOT NET\Teme\Basic\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfoInputs.cache
+D:\01 Scoala informala de IT\02 DOT NET\Teme\Basic\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfo.cs
+D:\01 Scoala informala de IT\02 DOT NET\Teme\Basic\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.dll
+D:\01 Scoala informala de IT\02 DOT NET\Teme\Basic\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.pdb
